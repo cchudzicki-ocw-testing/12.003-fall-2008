@@ -33,12 +33,12 @@ Play games with the puck and study its trajectory on the parabolic turntable, bo
 
 On the left we see the puck in the non-rotating frame. On the right we see the same puck but in the rotating frame.
 
-{{< resource ed27b961-4390-6f5c-cbfb-bbd671758f53 "On the left we see the puck in the non-rotating frame: on the right we see the same puck but in the rotating frame." >}}
+{{< resource "ed27b961-4390-6f5c-cbfb-bbd671758f53" >}}
 
 **See the movie:**
 
 *   {{% resource_link a6189fc0-3223-1899-c449-8e049920d6d2 "Experiment V: Visualizing the Coriolis Force" %}}
 
-{{< resource 01a64a19-5b51-8df8-7b39-2cd8448a428d "inertial circles" >}}
+{{< resource "01a64a19-5b51-8df8-7b39-2cd8448a428d" >}}
 
 Trajectory of the puck on the rotating parabolic surface in (a) the inertial frame and (b) the rotating frame of reference. The parabola is rotating in an anticlockwise (cyclonic) sense.

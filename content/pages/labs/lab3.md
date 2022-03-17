@@ -20,7 +20,7 @@ For a detailed description of this experiment, click {{% resource_link 45aafe00-
 
 Everyone is familiar with the swirl and gurgling sound of water flowing down a drain. In this laboratory experiment we explore this problem quantitatively, and draw out the strong parallels between it and the large scale flow in the atmosphere and ocean. We rotate a cylinder about its vertical axis. The cylinder has a circular drain hole in the center of its bottom. Water enters through a diffuser on the outer wall of the cylinder. The water is supplied by the diffuser at a constant rate so that a steady state can be set up in which the flow down the central drain exactly balances the inflow from the outer edge.
 
-{{< resource 29ffb0cc-f3d0-a906-237c-96436a10bef9 "radial inflow apparatus schematic" >}}
+{{< resource "29ffb0cc-f3d0-a906-237c-96436a10bef9" >}}
 
 The swirling flow set up exhibits a number of important principles of rotating fluid dynamics - conservation of angular momentum, geostrophic and cyclostrophic balance, and Ekman layers.
 
@@ -39,27 +39,27 @@ The entire apparatus is then mounted on a turntable.
 
 Side view:
 
-{{< resource 7108b17e-b4fb-87ec-b1e9-f0a633e01313 "side view of apparatus" >}} 
+{{< resource "7108b17e-b4fb-87ec-b1e9-f0a633e01313" >}} 
 
 Top view:
 
-{{< resource 5ad5ac43-aa56-ec47-afa6-6f22c047ffa2 "top view of appartus" >}}
+{{< resource "5ad5ac43-aa56-ec47-afa6-6f22c047ffa2" >}}
 
 Typical flow patterns
 ---------------------
 
 When the apparatus is not rotating, water flows radially inward from the diffuser to the drain in the middle. When the apparatus is rotating, however, water in the interior conserves angular momentum and, in so doing, acquires a vigorous swirling motion. The water spirals inward, as sketched in the diagram. The centrifugal force directed radially outward is balanced by a pressure gradient force directed radially inward. This pressure gradient force is set up by the free surface tilting relative to the horizontal.
 
-{{< resource 3b475642-e5d0-6b94-71c4-f13d8dfa52ff "flow patterns" >}}
+{{< resource "3b475642-e5d0-6b94-71c4-f13d8dfa52ff" >}}
 
 **SLOW rotation movie:** 
 
 *   {{% resource_link 86112c9b-0142-ee01-c3d7-121d1e5b7871 "Experiment III: Slow Radial Inflow" %}}
 
-{{< resource 92cb550d-e59b-258c-0da6-15beb9b87fb9 "slow rotation" >}}
+{{< resource "92cb550d-e59b-258c-0da6-15beb9b87fb9" >}}
 
 **FAST rotation movie:**
 
 *   {{% resource_link 445987e6-be67-df36-1b4e-10c2dfa2d624 "Experiment III: Fast Radial Inflow" %}}
 
-{{< resource f5bec7cc-aae2-90b6-9a25-f0440fb9f81d "fast rotation" >}}
+{{< resource "f5bec7cc-aae2-90b6-9a25-f0440fb9f81d" >}}

@@ -20,11 +20,11 @@ Here we study the mechanism by which the wind stress drives ocean circulation. W
 
 We rotate a disc at rate ω on the surface of a cylindrical tank of water (in fact, the disc is just submerged beneath the surface).  The tank of water and the disc driving it is then rotated at rate Ω using our turntable and left for about 30 minutes to come to equilibrium. Once equilibrium is reached, dye crystals are dropped in to the water to trace the motions.  The whole system is viewed from above in the rotating frame. Mirrors can be used to capture a side view, as shown below.
 
-{{< resource 80771c7f-8be1-2fd3-7218-a273dff54ba2 "lab 12 schematic" >}} {{< resource c6ab9dfe-8141-b98c-c5df-6004782f54e1 "experiment setup" >}}
+{{< resource "80771c7f-8be1-2fd3-7218-a273dff54ba2" >}} {{< resource "c6ab9dfe-8141-b98c-c5df-6004782f54e1" >}}
 
 Have a look at the pictures below showing the experiment in action.
 
-{{< resource 9d264064-0abb-1836-378b-3669e6779b52 "lab 12 view 1" >}}{{< resource 039fe263-b3b3-c906-7108-a1cab0a2dfaf "lab 12 view 2" >}}
+{{< resource "9d264064-0abb-1836-378b-3669e6779b52" >}}{{< resource "039fe263-b3b3-c906-7108-a1cab0a2dfaf" >}}
 
 Note the following:
 
@@ -32,10 +32,10 @@ Note the following:
 2.  Near the bottom boundary, there is inflow when ω has the same sign as Ω  (cyclonic flow) and outflow when ω has the opposite sign (anticyclonic) - think about our Ekman layer experiment, {{% resource_link d2941b39-7282-9992-7ef8-d6e0b241cf54 "GFD X" %}}.
 3.  There is also an Ekman layer at the top (beneath the rotating lid), in which the radial component of the flow is opposite to that at the bottom boundary. (Can you figure out why? Can you picture the overall meridional (radial/vertical) circulation in the tank?)  To help, have a look at the pictures below showing dyed water upwelling beneath a cyclonically rotating disc:
 
-{{< resource d3b66675-4187-092c-f263-84bcc6ca14cf "lab 12 view 3" >}}{{< resource 6e50c7c1-627c-e317-ba82-0316bd71aa66 "lab 12 view 4" >}}
+{{< resource "d3b66675-4187-092c-f263-84bcc6ca14cf" >}}{{< resource "6e50c7c1-627c-e317-ba82-0316bd71aa66" >}}
 
 **See the movie:** 
 
 *   {{% resource_link 7c1f526e-e3a6-f707-b3b4-d39f19a99dfc "Experiment XII: Ekman Pumping and Suction" %}}
 
-{{< resource 8de5f543-1c6b-31e8-7dc1-4797bf729a6d "lab 12 top view" >}}
+{{< resource "8de5f543-1c6b-31e8-7dc1-4797bf729a6d" >}}

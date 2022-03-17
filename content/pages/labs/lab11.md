@@ -23,7 +23,7 @@ The purpose of this experiment is to observe &grave;Hadley' and &grave;eddying' 
 
 'Hadley' and 'eddying' turbulent regimes can be set up in the tank by adjusting the rotation rate, Ω, of the tank - Ω can be ranged from zero to 10 rpm.
 
-{{< resource 16d001d7-753b-dbd1-ddcf-3b3e6e5c266c "experiment schematic" >}}
+{{< resource "16d001d7-753b-dbd1-ddcf-3b3e6e5c266c" >}}
 
 We observe the following:
 
@@ -34,8 +34,8 @@ We observe the following:
 
 Here is a sequence of images showing the evolution of the flow in the fully turbulent regime:
 
-{{< resource 237646ec-9d32-c0f0-0f44-038b9d4945fb "start of experiment" >}}{{< resource 979a7b93-aa76-6bd1-7748-6c52206dd037 "sometime later" >}}  
-{{< resource fda55870-946b-6626-b2ca-7b209823154a "screenshot 2" >}}{{< resource 6e64472a-2d41-e342-551f-dac0fcbf7441 "screen shot 3" >}}
+{{< resource "237646ec-9d32-c0f0-0f44-038b9d4945fb" >}}{{< resource "979a7b93-aa76-6bd1-7748-6c52206dd037" >}}  
+{{< resource "fda55870-946b-6626-b2ca-7b209823154a" >}}{{< resource "6e64472a-2d41-e342-551f-dac0fcbf7441" >}}
 
 **See the movie:**
 

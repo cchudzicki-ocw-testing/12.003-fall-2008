@@ -18,7 +18,7 @@ Experiments: {{% resource_link e572c702-677d-f010-efcc-73d32ee10bdf "0" %}} | {{
 
 If our cylindrical tank is filled with water, set turning, and left until it comes into solid body rotation, then the free-surface of the water will not be flat - it will be depressed in the middle and rise up slightly to its highest point along the rim of the tank (see fig. below). 
 
-{{< resource d21c95b0-d7d7-25d2-d595-3c26c8ffd8ba "parabolic schematic" >}}
+{{< resource "d21c95b0-d7d7-25d2-d595-3c26c8ffd8ba" >}}
 
 The shape of the free surface is given by
 
@@ -34,8 +34,8 @@ a small fraction of the depth to which the tank is typically filled.
 
 It is very instructive to make the surface of our turntable parabolic. This can readily be achieved by filling a large flat-bottomed pan with resin on a turntable and letting the resin harden while the turntable is left running (10 rpm works well) for several hours ({{% resource_link 2f1fb6f4-c640-ac34-04ef-d96c33e6fce6 "see instructions" %}}). The resulting parabolic surface can then be polished to create a low friction surface.
 
-{{< resource 7657d236-b518-b2b4-c2cb-400d7f4d7ec4 "using the turntable" >}}
+{{< resource "7657d236-b518-b2b4-c2cb-400d7f4d7ec4" >}}
 
 Place a ball-bearing on the rotating parabolic surface - make sure that the table is rotating at the same speed as was used to create the parabola! Note that it does not fall in to the center, but instead finds a state of rest in which the component of gravitational force resolved along the parabolic surface is exactly balanced by the outward-directed horizontal component of the centrifugal force.
 
-{{< resource a2c75159-80b4-bd88-4a7c-533608741ccc "parabola " >}}
+{{< resource "a2c75159-80b4-bd88-4a7c-533608741ccc" >}}
